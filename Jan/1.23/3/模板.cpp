@@ -1,0 +1,8 @@
+#INCLUDE<BITS/STDC++.H>
+USING NAMESPACE STD;
+INT MAIN()
+{
+	
+	return 0;
+}
+
